@@ -1,0 +1,4 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+gunicorn==21.2.0
+python-dateutil==2.9.0.post0
