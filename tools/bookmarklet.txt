@@ -1,0 +1,1 @@
+javascript:(function(){var h=prompt('Beacon server base URL','http://localhost:5000');if(!h)return;var s=document.createElement('script');s.src=h.replace(/\/$/,'')+'/beacon.js';s.async=true;document.documentElement.appendChild(s);})();
